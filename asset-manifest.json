@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-interest-calculator/static/css/main.00222b87.css",
+    "main.js": "/simple-interest-calculator/static/js/main.fde8361e.js",
+    "index.html": "/simple-interest-calculator/index.html",
+    "main.00222b87.css.map": "/simple-interest-calculator/static/css/main.00222b87.css.map",
+    "main.fde8361e.js.map": "/simple-interest-calculator/static/js/main.fde8361e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00222b87.css",
+    "static/js/main.fde8361e.js"
+  ]
+}
